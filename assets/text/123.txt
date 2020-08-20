@@ -1,0 +1,8 @@
+
+Interest in photography websites has exploded over the last 10 years, largely thanks to the developments in digital photography. Cameras and computers have become cheaper and more powerful, software more sophistocated and printers can now print photos that are as good (if not better) than anything produced in a chemical darkroom. Now, once you’ve acquired a digital setup, the economic restrictions of film and development costs have been removed and the cost of photography is virtually nil.
+
+Along with these developments in photography has been the parallel development of the Web. Ten years ago websites were largely clumsy, HTML driven constructions. Today, contemporary photographers have powerful tools such as WordPress and DreamWeaver with which to develop their websites. Photographers can also sell their work through companies such as PhotoShelter or ImageKind, and through photo libraries such as Alamy and iStockPhoto, opening up new revenue streams.
+
+The result is that photographers are finding new and exciting ways to showcase their best work online. We took a look at some of the beautiful photography websites that we could find, analyzing the design trends and the reasons why these websites work
+
+ <img src="assets/images/Logo1.png" style="height:35px" id="Logo1">
