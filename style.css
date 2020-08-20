@@ -1,0 +1,96 @@
+#Logo1{
+	margin-right: 7px;
+	margin-top: 7px;
+}
+
+.why_click{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.reasons-column{
+	text-align: center;
+}
+
+
+.description{
+	margin-top: 15px;
+}
+
+
+.digitalphotography{
+	text-align:left;
+	margin-top: 30px;
+	margin-bottom: auto;
+} 
+
+.photoz{
+   margin-top:30px ;
+
+}
+
+#video{
+    position: relative;
+    min-height: 250px;
+    background: url(assets/images/photographer.jpg);
+    background-position: 100 -15px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+
+.overlaycontainer{
+	margin-top: 60px;
+}
+
+.white{
+	color: white;
+}
+
+a:hover{
+	color: white;
+}
+
+footer{
+	padding: 15px;
+	margin-top: 20px; 
+	background-color: black;
+	color:#ffffff;
+}
+
+.footer-link{
+	color:#ffffff;
+}
+
+.footer-link:hover {
+	color:#ffffff;
+}
+
+.text-centre {
+	text-align: center;
+}
+
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+
+ 
+/*.fa-play:before {
+    content: "\f04b";
+}
+ 
+ /*::before {
+    box-sizing: border-box;
+}
